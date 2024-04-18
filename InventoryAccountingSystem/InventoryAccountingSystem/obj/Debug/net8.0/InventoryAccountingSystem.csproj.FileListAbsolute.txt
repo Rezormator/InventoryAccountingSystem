@@ -1,0 +1,14 @@
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\bin\Debug\net8.0\InventoryAccountingSystem.exe
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\bin\Debug\net8.0\InventoryAccountingSystem.deps.json
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\bin\Debug\net8.0\InventoryAccountingSystem.runtimeconfig.json
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\bin\Debug\net8.0\InventoryAccountingSystem.dll
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\bin\Debug\net8.0\InventoryAccountingSystem.pdb
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.AssemblyInfoInputs.cache
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.AssemblyInfo.cs
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.csproj.CoreCompileInputs.cache
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.dll
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\refint\InventoryAccountingSystem.dll
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.pdb
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\InventoryAccountingSystem.genruntimeconfig.cache
+D:\coding\rider\lab\InventoryAccountingSystem\InventoryAccountingSystem\obj\Debug\net8.0\ref\InventoryAccountingSystem.dll
